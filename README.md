@@ -6,9 +6,14 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ywz85&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## Show my skills💾:
+## 整活技能⚙️:
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-
+![](https://img.shields.io/badge/-HTML-%23dd4b25)
+![](https://img.shields.io/badge/-CSS-%23254bdd)
+![](https://img.shields.io/badge/-Vue.js-brightgreen)
+![](https://img.shields.io/badge/-React-%2361dafb)
+![](https://img.shields.io/badge/-Uni--App-%232b9939)
+![](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-%2306ad56)
 
 
 
