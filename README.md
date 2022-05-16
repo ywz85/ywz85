@@ -8,7 +8,7 @@
 
 ## 整活技能⚙️:
 <!-- ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) -->
-![](https://img.shields.io/badge/-JavaScript-%23efd81d)
+![](https://img.shields.io/badge/-JavaScript-%23efd81d&logo=JavaScript)
 ![](https://img.shields.io/badge/-HTML-%23dd4b25)
 ![](https://img.shields.io/badge/-CSS-%23254bdd)
 ![](https://img.shields.io/badge/-Vue.js-brightgreen)
